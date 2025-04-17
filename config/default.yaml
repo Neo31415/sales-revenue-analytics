@@ -1,0 +1,9 @@
+env: development
+port: 4000
+
+mongo:
+  port: 27017
+  user: admin 
+  password: admin
+  host: localhost
+  database: sales_analytics
